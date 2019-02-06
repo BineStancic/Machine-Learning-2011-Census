@@ -7,6 +7,6 @@ Markdowns describe the code and the findings of the project.
 
 /lookup and /maps contain the data from the 2011 census data.
 
-census_utils.py not written by me, provided by the University of Edinburgh to help setup the libraries.
+/PDAML/census/census_utils.py not written by me, provided by the University of Edinburgh to help setup the libraries.
 
 project-notes.md describes the project that was underatken in census-s1411822.ipynb.
